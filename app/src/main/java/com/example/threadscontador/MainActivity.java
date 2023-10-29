@@ -52,8 +52,5 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    public void clickSemaforo(View view){
-
-    }
 
 }
