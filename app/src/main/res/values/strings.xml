@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThreadsContador</string>
+    <string name="txt_contador">0</string>
+    <string name="btn_iniciar">Inicio</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_semaforo">Threads Semaforo</string>
+</resources>
